@@ -39,9 +39,7 @@
     
             <SCRIPT LANGUAGE="JavaScript">
         function mi_alerta () {
-        alert ("Algar-Tech"+
-               "\n"+
-               "\nJuan Cifuentes");
+        alert ("Juan Cifuentes");
         }
         </SCRIPT>
         
